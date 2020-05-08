@@ -6,3 +6,5 @@ wget http://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_head
 Для запуска трекинга по Web-camera  ```python object_tracking.py```
 
 Для теста на видео `python object_tracking.py --input name.mp4` 
+
+Путь для файлов обученного графа и labelmap /utilities/constants.py
